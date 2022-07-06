@@ -1,2 +1,1 @@
-# .github
-Eric Leung's GitHub settings 
+This repository [provides defaults](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for all [erictleung repositories](https://github.com/erictleung?tab=repositories).
